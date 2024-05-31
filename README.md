@@ -1,5 +1,7 @@
-# Toolbox *[last update: 31.5.24]*
+# Toolbox 
 *Non exhaustiv toolbox for data handling: image, texte, table*
+
+*[last update: 31.5.24]*
 
 ## Preprocessing
 * [OpenRefine](https://openrefine.org)
