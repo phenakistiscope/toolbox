@@ -9,6 +9,7 @@
 * [Aries](https://artimageexplorationspace.com)
 * [Layout Parser](https://layout-parser.github.io)
 * [MediaLab SciencePo](https://medialab.sciencespo.fr/outils/)
+* [GeoPy](https://github.com/geopy/geopy)
 
 ## Analysis
 * [GraphTool](https://graph-tool.skewed.de)
