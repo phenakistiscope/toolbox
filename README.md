@@ -10,6 +10,8 @@
 * [Layout Parser](https://layout-parser.github.io)
 * [MediaLab SciencePo](https://medialab.sciencespo.fr/outils/)
 * [GeoPy](https://github.com/geopy/geopy)
+* [LangChain](https://github.com/langchain-ai/langchain)
+* [Selenium](https://www.selenium.dev/)
 
 ## Analysis
 * [GraphTool](https://graph-tool.skewed.de)
@@ -24,6 +26,8 @@
 * [Palladio](http://hdlab.stanford.edu/palladio/)
 * [Streamlit](https://streamlit.io)
 * [Kepler](https://kepler.gl)
+* [D3](https://d3js.org/)
+* [Leaflet](https://leafletjs.com/) / [Folium](https://github.com/python-visualization/folium)
 * [Visualizing Cultural Collections](https://uclab.fh-potsdam.de/vikus/)
 * [Image Collage Maker](https://github.com/hanzhi713/image-collage-maker)
 * [Rawgraphs](https://www.rawgraphs.io)
